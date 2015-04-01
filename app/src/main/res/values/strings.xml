@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sharing accounts</string>
+    <string name="login">Create account</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="account_type">com.alorma.accounts</string>
+    <string name="account_name">Alorma account</string>
+</resources>
